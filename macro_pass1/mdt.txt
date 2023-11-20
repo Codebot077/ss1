@@ -1,0 +1,14 @@
+INCR &A,&B,&AREG
+MOVER #0, #1
+ADD #1, #2
+MOVEM #0, #1
+ADDS &F,&S
+MOVER #0, #1
+ADD #0, #0
+MOVEM #0, #0
+Write #0
+SUBS &F,&S
+MOVER #0, #1
+SUB #0, #0
+MOVEM #0, #0
+Write #0

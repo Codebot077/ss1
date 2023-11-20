@@ -1,0 +1,10 @@
+ADDS N1,N2
+0   N1   #1
+1   N2   #2
+SUBS N1,N2
+0   N1   #1
+1   N2   #2
+INCR N1,N2,CREG
+0   N1   #1
+1   N2   #2
+2   CREG   #3

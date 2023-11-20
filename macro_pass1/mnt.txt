@@ -1,0 +1,4 @@
+INDEX    NAME    ALA  
+0        INCR     1
+1        ADDS     5
+2        SUBS     10
